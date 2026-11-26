@@ -31,3 +31,5 @@ Fotos recortadas en assets/deco/. Script flyers_deco.py: completar el dict PRICE
 Flyers listos (feed 1080x1350 y vertical *_estado.jpg 1080x1920) en la raíz del repo: deco_navidad.jpg (cortinas y guirnaldas de Navidad), deco_solares.jpg (guirnaldas y mangueras solares), deco_rincon.jpg (ramo de hadas, velas solares, árbol cerezo, lámpara de pared).
 Orden sugerido: lun 30/11 feed deco_navidad; jue 3/12 feed deco_solares; lun 7/12 feed deco_rincon; los días de historia usar las versiones *_estado.jpg de esos mismos tres. Hasta el 24/12 priorizar Navidad y solares. Si faltan precios, el caption dice "Consultá precio por WhatsApp 351 349 8646".
 Antes de publicar cualquiera de estos, confirmar con la dueña que el producto está en stock en el local (no prometer disponibilidad).
+
+Suma (26/11): deco_kermes.jpg y deco_kermes_estado.jpg = Kermés solar de 5 m con lámparas vintage (fotos en assets/deco/kermes_*.png). Publicar jueves 10/12 en feed y como historia el viernes 11/12. Precio pendiente: PRICES['kermes_solar'] en flyers_deco.py.

@@ -66,3 +66,24 @@ if __name__=='__main__':
     os.makedirs(HERE+'/out',exist_ok=True)
     for k in SETS:
         f=flyer(k); f.save(f'{HERE}/out/deco_{k}.jpg',quality=95); story(f).save(f'{HERE}/out/deco_{k}_estado.jpg',quality=95)
+
+def hero_kermes(price=None):
+    """Flyer destacado: Kermés solar 5 m con lámparas vintage."""
+    W,H=1080,1350
+    c=Image.new('RGB',(W,H),BG); d=ImageDraw.Draw(c)
+    d.rectangle((60,60,150,66),fill=OR)
+    d.text((60,90),'KERMÉS SOLAR',font=bold(88),fill=(255,255,255))
+    d.text((62,200),'Lámparas vintage, 5 metros',font=med(36),fill=(210,210,210))
+    amb=Image.open(D+'kermes_ambiente.png'); prod=Image.open(D+'kermes_producto.png')
+    big=cover(amb,500,860); m=Image.new('L',(500,860),0); ImageDraw.Draw(m).rounded_rectangle((0,0,499,859),32,fill=255); c.paste(big,(60,270),m)
+    small=contain(prod,430,330); sm=Image.new('L',(430,330),0); ImageDraw.Draw(sm).rounded_rectangle((0,0,429,329),28,fill=255); c.paste(small,(590,270),sm)
+    y=640
+    for t,f,col in [('Energía solar',bold(40),(255,255,255)),('Lámparas vintage',med(30),(210,210,210)),('de 5 metros',med(30),(210,210,210)),('para exterior',med(30),(210,210,210))]:
+        d.text((590,y),t,font=f,fill=col); y+=52 if f is not None else 0
+    d.text((590,1000),price if price else 'Consultá precio',font=bold(44 if price else 38),fill=OR)
+    d.rounded_rectangle((60,1190,1020,1320),30,fill=OR)
+    lg=logo.copy(); lg.thumbnail((290,80)); d.rounded_rectangle((78,1204,378,1306),20,fill=CREAM); c.paste(lg,(78+(300-lg.width)//2,1204+(102-lg.height)//2),lg)
+    d.text((405,1212),'Pedí por WhatsApp',font=med(30),fill=(20,20,20)); d.text((405,1248),'351 349 8646',font=bold(48),fill=(20,20,20))
+    return c
+if __name__=='__main__':
+    h=hero_kermes(PRICES.get('kermes_solar')); h.save(HERE+'/out/deco_kermes.jpg',quality=95); story(h).save(HERE+'/out/deco_kermes_estado.jpg',quality=95)
