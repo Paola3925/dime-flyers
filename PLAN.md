@@ -1,7 +1,7 @@
 # Dime Iluminación y Electricidad – plan de redes (para ejecutar en sesiones programadas)
 
 Negocio: Recta Martinoli 8791, Córdoba. WhatsApp 351 349 8646. Instagram @dime_iluminacion (Windsor connector `instagram`, cuenta 17841441557324448).
-Tienda online: https://claude.ai/artifact/5dZ5V7nhw8FvUB4SeBL7b7
+Tienda online (usar SIEMPRE este link corto en captions y mensajes): https://tinyurl.com/Dimeilumina  (el original es https://claude.ai/artifact/5dZ5V7nhw8FvUB4SeBL7b7). Nombre de la tienda: Dime Iluminación.
 Promo diciembre: descuento especial pagando en EFECTIVO (no inventar porcentaje).
 
 ## Productos y precios de venta (IVA incluido)
