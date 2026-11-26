@@ -25,3 +25,9 @@ Subir el JPG a este repo (rama main) y usar la URL https://raw.githubusercontent
 Sem 26/11-2/12 colgantes y plafones. 3-9/12 luces decorativas y veladores de regalo. 10-16/12 ambientá tus fiestas. 17-24/12 última semana, retiro rápido y horarios.
 Lun feed + historia. Mar historia consejo/encuesta. Mié reel (no se puede crear video: usar historia). Jue feed. Vie historia "para el finde". Sáb historia/consejo. Dom nada en Instagram.
 Siempre dejar el flyer vertical para el estado de WhatsApp y avisar por push (la dueña lo sube a mano; WhatsApp no tiene API de estados).
+
+## Luces decorativas (proveedor Topluva) – flyers ya armados
+Fotos recortadas en assets/deco/. Script flyers_deco.py: completar el dict PRICES con los precios de venta cuando la dueña los pase (regla: costo x2 x1,21 redondeado a $100) y volver a correrlo para regenerar los flyers con precio. Mientras no haya precio los flyers dicen "Consultá precio".
+Flyers listos (feed 1080x1350 y vertical *_estado.jpg 1080x1920) en la raíz del repo: deco_navidad.jpg (cortinas y guirnaldas de Navidad), deco_solares.jpg (guirnaldas y mangueras solares), deco_rincon.jpg (ramo de hadas, velas solares, árbol cerezo, lámpara de pared).
+Orden sugerido: lun 30/11 feed deco_navidad; jue 3/12 feed deco_solares; lun 7/12 feed deco_rincon; los días de historia usar las versiones *_estado.jpg de esos mismos tres. Hasta el 24/12 priorizar Navidad y solares. Si faltan precios, el caption dice "Consultá precio por WhatsApp 351 349 8646".
+Antes de publicar cualquiera de estos, confirmar con la dueña que el producto está en stock en el local (no prometer disponibilidad).
