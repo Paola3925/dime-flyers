@@ -33,3 +33,6 @@ Orden sugerido: lun 30/11 feed deco_navidad; jue 3/12 feed deco_solares; lun 7/1
 Antes de publicar cualquiera de estos, confirmar con la dueña que el producto está en stock en el local (no prometer disponibilidad).
 
 Suma (26/11): deco_kermes.jpg y deco_kermes_estado.jpg = Kermés solar de 5 m con lámparas vintage (fotos en assets/deco/kermes_*.png). Publicar jueves 10/12 en feed y como historia el viernes 11/12. Precio pendiente: PRICES['kermes_solar'] en flyers_deco.py.
+
+## Recordatorio diario de estados de WhatsApp Business (la dueña los sube a mano)
+Cada mañana se le avisa a Paola qué subir hoy al estado de WhatsApp Business (máx. 2 por día). Reglas: (1) incluir siempre el flyer vertical *_estado.jpg del post de Instagram previsto para hoy según el calendario; (2) sumar un segundo de la rotación: deco_kermes, deco_navidad, deco_solares, deco_rincon, flyer_colgantes, 2026-11-26_plafones (y los flyers nuevos que haya en la raíz), sin repetir el mismo dos días seguidos; (3) en diciembre priorizar Navidad, kermés y solares; (4) texto sugerido corto con el link de la tienda https://tinyurl.com/Dimeilumina y "Pagando en efectivo tenés descuento". Los últimos días (21 a 24/12) avisar horarios y retiro rápido. Ya subidos hoy 26/11: kermés y navidad (pendiente de confirmar). Si Paola dice que ya publicó algo, anotarlo acá.
