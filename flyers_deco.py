@@ -8,11 +8,11 @@ F='/usr/share/fonts/truetype/google-fonts/'
 BG=(32,32,32); OR=(247,148,30); CREAM=(250,246,242)
 bold=lambda s: ImageFont.truetype(F+'Poppins-Bold.ttf',s)
 med=lambda s: ImageFont.truetype(F+'Poppins-Medium.ttf',s)
-PRICES={'tira_arroz':'$8.700','vela_solar_x6':'$5.600','gota_solar': '$16.500', 'abeja_solar': '$26.600', 'cortina_lluvia': '$11.400', 'cortina_3x3': '$30.200', 'red_2x2': '$18.400', 'ramo_hada': '$32.700', 'cerezo_solar': '$44.800', 'kermes_solar': '$67.800'}
+PRICES={'manguera_solar':'$48.400','estrella_solar':'$14.500','lampara_pared':'$29.000','tira_arroz':'$8.700','vela_solar_x6':'$5.600','gota_solar': '$16.500', 'abeja_solar': '$26.600', 'cortina_lluvia': '$11.400', 'cortina_3x3': '$30.200', 'red_2x2': '$18.400', 'ramo_hada': '$32.700', 'cerezo_solar': '$44.800', 'kermes_solar': '$67.800'}
 logo=Image.open(A+'logo_orig.png').convert('RGBA')
 SETS={
  'solares':('LUCES SOLARES','Sin cables y sin gasto de luz',[
-   ('manguera_solar','Manguera solar 10 m','Luz cálida para exterior'),
+   ('manguera_solar','Manguera solar 20 m','Luz cálida para exterior'),
    ('estrella_solar','Guirnalda estrellas','Solar, 5 m, 20 LED'),
    ('gota_solar','Guirnalda gotas','Solar, 5 m, 20 LED cálida'),
    ('abeja_solar','Guirnalda abejas','Solar, 7 m, 50 luces')]),
