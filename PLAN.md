@@ -45,3 +45,7 @@ Ya están en la tienda con precio de venta, se publican CON precio (los precios 
 - 2026-11-26_veladores(.jpg/_estado.jpg): Softy $44.900, Spicy $46.600, Indu $89.400, Petit táctil $36.300.
 - 2026-11-26_apliques(.jpg/_estado.jpg): Fiona $54.100, Aki $102.300, Neo $114.000. (Bonnie LED dimerizable $101.800 quedó afuera: sumarla en un próximo flyer.)
 Orden sugerido (historias): vie 27/11 lamparas_escritorio_estado; sáb 28/11 veladores_estado; mar 1/12 apliques_estado. Las versiones feed (1080x1350) sirven como reemplazo de lunes/jueves si falta confirmar stock de las luces decorativas. En las historias de regalo (semana 3-9/12) reutilizar veladores.
+
+## Regla de la dueña (26/11): todo lo que se carga en la tienda también va a las redes
+Cuando la dueña pase material (productos, fotos, listas) y se cargue en la tienda, ese mismo material se usa para armar flyers para todas las redes: Instagram (feed 1080x1350 e historia 1080x1920), TikTok y estado de WhatsApp (vertical 1080x1920, el mismo *_estado.jpg) y Google (publicación de Google Business Profile con el flyer de feed). Usar siempre los precios de la tienda.
+Imágenes: antes de armar, revisar que cada producto tenga foto buena (nítida, de al menos ~600 px de lado, sin marcas de agua ni texto encima). Si falta foto, es chica o borrosa, o hay un producto sin precio en la tienda, armar igual lo que se pueda y pedirle a la dueña en la notificación la foto o el dato que falta (nombrando el producto). Fotos de ambiente (producto instalado) rinden más en Instagram y TikTok que el fondo blanco.
