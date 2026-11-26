@@ -38,3 +38,10 @@ Suma (26/11): deco_kermes.jpg y deco_kermes_estado.jpg = Kermés solar de 5 m co
 Cada mañana se le avisa a Paola qué subir hoy al estado de WhatsApp Business (máx. 2 por día). Reglas: (1) incluir siempre el flyer vertical *_estado.jpg del post de Instagram previsto para hoy según el calendario; (2) sumar un segundo de la rotación: deco_kermes, deco_navidad, deco_solares, deco_rincon, flyer_colgantes, 2026-11-26_plafones (y los flyers nuevos que haya en la raíz), sin repetir el mismo dos días seguidos; (3) en diciembre priorizar Navidad, kermés y solares; (4) texto sugerido corto con el link de la tienda https://tinyurl.com/Dimeilumina y "Pagando en efectivo tenés descuento". Los últimos días (21 a 24/12) avisar horarios y retiro rápido. Ya subidos hoy 26/11: kermés y navidad (pendiente de confirmar). Si Paola dice que ya publicó algo, anotarlo acá.
 
 TikTok (la dueña lo sube a mano, no hay API de publicación): 1 video por día, idealmente 19 a 21 h. Usar los .mp4 del repo (reel_colgantes y los nuevos); si no hay video nuevo, armar uno con reel_build.py. El recordatorio diario (9:07 h) incluye descripción, hashtags y música sugerida.
+
+## Productos Candil en la tienda (ids 79-89) – flyers listos con precio (26/11)
+Ya están en la tienda con precio de venta, se publican CON precio (los precios son los de la tienda; no inventar otros). Script: flyers_candil.py (datos y fotos en assets/candil/).
+- 2026-11-26_lamparas_escritorio(.jpg/_estado.jpg): Pipo Mesa $78.400, Pipo Pinza $78.400, Tablero $107.300, Serena $125.600.
+- 2026-11-26_veladores(.jpg/_estado.jpg): Softy $44.900, Spicy $46.600, Indu $89.400, Petit táctil $36.300.
+- 2026-11-26_apliques(.jpg/_estado.jpg): Fiona $54.100, Aki $102.300, Neo $114.000. (Bonnie LED dimerizable $101.800 quedó afuera: sumarla en un próximo flyer.)
+Orden sugerido (historias): vie 27/11 lamparas_escritorio_estado; sáb 28/11 veladores_estado; mar 1/12 apliques_estado. Las versiones feed (1080x1350) sirven como reemplazo de lunes/jueves si falta confirmar stock de las luces decorativas. En las historias de regalo (semana 3-9/12) reutilizar veladores.
