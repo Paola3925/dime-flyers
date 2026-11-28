@@ -56,3 +56,6 @@ Canales conectados en Windsor (26/11): Instagram (publica), Google Business Prof
 
 ## Veladores infantiles $22.000 (28/11) – cargados en la tienda (ids 99-103)
 Conejo con overol, chanchito con hoja, astronauta con nube, osito con portaobjetos y el de bandeja: todos $22.000 en la tienda, fotos sin fondo en assets/infantiles/ (generadas con rembg sobre las fotos de la dueña; script flyers_infantiles.py). Flyer: 2026-11-28_veladores_infantiles(.jpg/_estado.jpg), precio 'Cada uno $22.000'. Para sacar fondos: fotos con el producto solo, enfocado; si el producto es blanco, usar fondo oscuro. Pendiente: modelo astronauta en cápsula verde (foto con fondo claro, no salió el recorte) y precio de los veladores infantiles viejos (ids 91-98, 'Consultar precio') a confirmar con la dueña. Sugerido: historia mar 1/12 o vie 4/12 y regalo en semana 3-9/12.
+
+## Velador panda y elefante $43.000 (28/11)
+Tienda: panda (id 92) reemplazado por la foto nueva sin fondo, con luz azul retocada (la foto blanca queda como segunda imagen) y elefante (id 91): ambos $43.000. Flyer: 2026-11-28_veladores_figuras(.jpg/_estado.jpg) con 'Cada uno $43.000' (script flyers_panda_elefante.py, imágenes en assets/infantiles/). Pendiente de precio: capibaras, honguitos y conejito (ids 93, 94, 97, 98).
