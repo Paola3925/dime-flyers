@@ -59,3 +59,7 @@ Conejo con overol, chanchito con hoja, astronauta con nube, osito con portaobjet
 
 ## Velador panda y elefante $43.000 (28/11)
 Tienda: panda (id 92) reemplazado por la foto nueva sin fondo, con luz azul retocada (la foto blanca queda como segunda imagen) y elefante (id 91): ambos $43.000. Flyer: 2026-11-28_veladores_figuras(.jpg/_estado.jpg) con 'Cada uno $43.000' (script flyers_panda_elefante.py, imágenes en assets/infantiles/). Pendiente de precio: capibaras, honguitos y conejito (ids 93, 94, 97, 98).
+
+## Reprogramación (sáb 28/11) tras fotos nuevas de la dueña
+Sáb 28/11 historia: veladores_infantiles_estado (publicada). Dom 29/11: nada en Instagram (recordar foto del local al estado).
+Lun 30/11 feed: 2026-11-28_veladores_infantiles (regalo de Navidad, $22.000 c/u). Mar 1/12 historia: apliques_estado. Mié 2/12 historia: veladores_figuras_estado (panda/elefante $43.000). Jue 3/12 feed: veladores_figuras o deco_solares si la dueña confirma stock y pasa precios. Vie 4/12 historia: veladores_infantiles_estado o lamparas. Luces decorativas/navideñas: esperar fotos reales + precio + stock de la dueña antes de publicar.
